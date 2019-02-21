@@ -1,0 +1,7 @@
+var a = prompt ("choose number")
+if (a>0) 
+alert ("positive")
+ if (a<0)
+alert ("negative")   
+if (a==0)
+  console.log ("equal")
